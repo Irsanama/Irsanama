@@ -263,14 +263,18 @@
 <!-- КАРТОЧКА "СТАТИСТИКА GITHUB" -->
 <div style="background: rgba(25,25,25,0.7); backdrop-filter: blur(4px); border: 1px solid #333; border-radius: 20px; padding: 25px; margin: 30px 0;">
   <h2 align="center" style="color: #bbb; font-weight: 300; letter-spacing: 1px;">📊 Статистика GitHub</h2>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Irsanama&show_icons=true&bg_color=1A1A1A&text_color=CCCCCC&icon_color=888888&title_color=AAAAAA&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Irsanama&background=1A1A1A&stroke=CCCCCC&ring=888888&fire=AAAAAA&currStreakNum=CCCCCC&sideNums=CCCCCC&currStreakLabel=AAAAAA&sideLabels=888888&dates=CCCCCC&hide_border=true" height="170" />
-  </p>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irsanama&layout=compact&bg_color=1A1A1A&text_color=CCCCCC&title_color=AAAAAA&hide_border=true&langs_count=15" height="160" />
-    <img src="https://github-contributor-stats.vercel.app/api?username=Irsanama&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=1A1A1A&text_color=CCCCCC&title_color=AAAAAA" height="160" />
-  </p>
+  
+  <!-- Flex-контейнер для всех четырёх карточек -->
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
+    <!-- Основная статистика -->
+    <img src="https://github-readme-stats.vercel.app/api?username=Irsanama&show_icons=true&bg_color=1A1A1A&text_color=CCCCCC&icon_color=888888&title_color=AAAAAA&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
+    <!-- Streak (текущая серия) – исправленная ссылка -->
+    <img src="https://streak-stats.demolab.com/?user=Irsanama&background=1A1A1A&stroke=CCCCCC&ring=888888&fire=AAAAAA&currStreakNum=CCCCCC&sideNums=CCCCCC&currStreakLabel=AAAAAA&sideLabels=888888&dates=CCCCCC&hide_border=true" height="150" alt="GitHub Streak" />
+    <!-- Самые используемые языки -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irsanama&layout=compact&bg_color=1A1A1A&text_color=CCCCCC&title_color=AAAAAA&hide_border=true&langs_count=15" height="140" alt="Top Languages" />
+    <!-- Вклад в проекты (contributor stats) -->
+    <img src="https://github-contributor-stats.vercel.app/api?username=Irsanama&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=1A1A1A&text_color=CCCCCC&title_color=AAAAAA" height="140" alt="Contributor Stats" />
+  </div>
 </div>
 
 <hr style="border: 0.5px solid #333; margin: 40px 0;" />
