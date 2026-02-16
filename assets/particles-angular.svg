@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 800 600" preserveAspectRatio="none">
+  <style>
+    @keyframes move {
+      0% { transform: translate(0, 0) rotate(0deg); opacity: 0; }
+      5% { opacity: 0.3; }
+      95% { opacity: 0.2; }
+      100% { transform: translate(30px, -30px) rotate(15deg); opacity: 0; }
+    }
+    .particle {
+      animation: move 14s infinite ease-in-out;
+    }
+  </style>
+  <g fill="none" stroke="#666666" stroke-width="1.2" opacity="0.15">
+    <!-- Квадратики -->
+    <rect class="particle" x="15%" y="20%" width="4" height="4" stroke="none" fill="#888888" style="animation-delay: 0s;"/>
+    <rect class="particle" x="80%" y="50%" width="6" height="6" stroke="none" fill="#aaaaaa" style="animation-delay: 3s;"/>
+    <rect class="particle" x="40%" y="80%" width="5" height="5" stroke="none" fill="#777777" style="animation-delay: 5s;"/>
+    <rect class="particle" x="92%" y="15%" width="3" height="3" stroke="none" fill="#999999" style="animation-delay: 1.5s;"/>
+    <rect class="particle" x="10%" y="70%" width="7" height="7" stroke="none" fill="#555555" style="animation-delay: 7s;"/>
+    <!-- Линии (угловатые) -->
+    <line class="particle" x1="60%" y1="30%" x2="64%" y2="34%" stroke="#777777" style="animation-delay: 2s;"/>
+    <line class="particle" x1="25%" y1="45%" x2="29%" y2="41%" stroke="#888888" style="animation-delay: 4s;"/>
+    <line class="particle" x1="70%" y1="60%" x2="75%" y2="65%" stroke="#666666" style="animation-delay: 6s;"/>
+    <line class="particle" x1="45%" y1="10%" x2="48%" y2="14%" stroke="#999999" style="animation-delay: 2.7s;"/>
+    <line class="particle" x1="88%" y1="85%" x2="92%" y2="81%" stroke="#aaaaaa" style="animation-delay: 8s;"/>
+  </g>
+</svg>
