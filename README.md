@@ -1,26 +1,14 @@
-<!-- ГЛОБАЛЬНЫЙ КОНТЕЙНЕР С ФОНОМ -->
-<div style="position: relative; min-height: 100vh; padding: 30px 20px; overflow: hidden;">
-
-<!-- СЛОЙ 1: ТЁМНЫЙ ГРАДИЕНТ С ШУМОМ -->
-<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -2; background: url('assets/bg-minimal.svg') no-repeat center center fixed; background-size: cover;"></div>
-
-<!-- СЛОЙ 2: УГЛОВАТЫЕ ЧАСТИЦЫ (АНИМИРОВАННЫЕ) -->
-<div style="position: fixed; top: 0; left: 0; width: 100%; height: 100%; z-index: -1; background: url('assets/particles-angular.svg') no-repeat center center fixed; background-size: cover; pointer-events: none;"></div>
-
-<!-- ОСНОВНОЕ СОДЕРЖИМОЕ -->
-<div style="position: relative; z-index: 10;">
-
-<!-- ВОЛНА (ТЁМНО-СЕРАЯ) -->
+<!-- ВОЛНА -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:444444&height=180&section=header&text=Mirseia&fontSize=60&fontColor=dddddd&animation=fadeIn&fontAlignY=35" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:333333,100:555555&height=200&section=header&text=Mirseia&fontSize=70&fontColor=eeeeee&animation=twinkling&fontAlignY=35" width="100%" style="filter: drop-shadow(0 0 5px rgba(255,255,255,0.1));" />
 </p>
 
-<!-- АНИМИРОВАННЫЙ ЗАГОЛОВОК (СЕРЫЙ ТЕКСТ) -->
+<!-- АНИМИРОВАННЫЙ ЗАГОЛОВОК -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=42&duration=3500&pause=800&color=CCCCCC&center=true&vCenter=true&width=900&height=100&lines=𝗛𝗲𝗹𝗹𝗼%2C+𝗜'𝗺+Mirseia;Developer+%7C+Designer+%7C+Creator;AI+%26+Game+Dev+%26+3D+Artist;Welcome+to+my+digital+space" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&weight=600&size=44&duration=3500&pause=800&color=DDDDDD&center=true&vCenter=true&width=900&height=120&lines=𝗛𝗲𝗹𝗹𝗼%2C+𝗜'𝗺+Mirseia;Developer+%7C+Designer+%7C+Creator;Code+%C2%B7+Design+%C2%B7+AI+%C2%B7+3D+%C2%B7+Games;Welcome+to+my+digital+space&cursorColor=888888" alt="Typing SVG" />
 </h1>
 
-<!-- СОЦИАЛЬНЫЕ КНОПКИ (ПОЛНОСТЬЮ ЦВЕТНЫЕ, КАК В ИСХОДНОМ ФАЙЛЕ) -->
+<!-- СОЦИАЛЬНЫЕ КНОПКИ -->
 <p align="center">
   <a href="https://твой-сайт.ru"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=00FFAA" /></a>
   <a href="https://t.me/mirseia"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -32,9 +20,9 @@
   <a href="https://pinterest.com/ваш_логин" target="_blank"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
 </p>
 
-<!-- ГИФКА (С СЕРОЙ РАМКОЙ) -->
+<!-- ГИФКА -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="600" alt="coding" style="border-radius: 16px; border: 1px solid #333; box-shadow: 0 10px 20px rgba(0,0,0,0.8); filter: grayscale(20%);" />
+  <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" alt="coding" style="border-radius: 16px; border: 1px solid #333; box-shadow: 0 10px 20px rgba(0,0,0,0.8); filter: grayscale(20%);" />
 </p>
 
 <!-- РАЗДЕЛИТЕЛЬ -->
@@ -54,7 +42,7 @@
 <div style="background: rgba(25,25,25,0.7); backdrop-filter: blur(4px); border: 1px solid #333; border-radius: 20px; padding: 25px; margin: 30px 0;">
   <h2 align="center" style="color: #bbb; font-weight: 300; letter-spacing: 1px;">⚙️ Стек технологий</h2>
 
-<!-- БЛОК 1: РАЗРАБОТКА (С РАСШИРЕННЫМ СПИСКОМ ЯЗЫКОВ) -->
+<!-- БЛОК 1: РАЗРАБОТКА -->
 <details open>
   <summary><b><span style="color: #00FFAA;">📱 Разработка (Software Development)</span></b></summary>
   <br/>
@@ -264,16 +252,16 @@
 <div style="background: rgba(25,25,25,0.7); backdrop-filter: blur(4px); border: 1px solid #333; border-radius: 20px; padding: 25px; margin: 30px 0;">
   <h2 align="center" style="color: #bbb; font-weight: 300; letter-spacing: 1px;">📊 Статистика GitHub</h2>
   
-  <!-- Flex-контейнер для всех четырёх карточек -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin-top: 20px;">
-    <!-- Основная статистика -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Irsanama&show_icons=true&bg_color=1A1A1A&text_color=CCCCCC&icon_color=888888&title_color=AAAAAA&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-    <!-- Streak (текущая серия) – исправленная ссылка -->
-    <img src="https://streak-stats.demolab.com/?user=Irsanama&background=1A1A1A&stroke=CCCCCC&ring=888888&fire=AAAAAA&currStreakNum=CCCCCC&sideNums=CCCCCC&currStreakLabel=AAAAAA&sideLabels=888888&dates=CCCCCC&hide_border=true" height="150" alt="GitHub Streak" />
-    <!-- Самые используемые языки -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Irsanama&layout=compact&bg_color=1A1A1A&text_color=CCCCCC&title_color=AAAAAA&hide_border=true&langs_count=15" height="140" alt="Top Languages" />
-    <!-- Вклад в проекты (contributor stats) -->
-    <img src="https://github-contributor-stats.vercel.app/api?username=Irsanama&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=1A1A1A&text_color=CCCCCC&title_color=AAAAAA" height="140" alt="Contributor Stats" />
+  <!-- Flex-контейнер для двух карточек в ряд -->
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px;">
+    <!-- Первая карточка (Streak) -->
+    <div style="flex: 1 1 300px; min-width: 280px;">
+      <img src="https://streak-stats.demolab.com/?user=Irsanama&background=1A1A1A&stroke=CCCCCC&ring=888888&fire=AAAAAA&currStreakNum=CCCCCC&sideNums=CCCCCC&currStreakLabel=AAAAAA&sideLabels=888888&dates=CCCCCC&hide_border=true" style="width: 100%; height: auto; border-radius: 12px;" alt="GitHub Streak" />
+    </div>
+    <!-- Вторая карточка (Contributor Stats) -->
+    <div style="flex: 1 1 300px; min-width: 280px;">
+      <img src="https://github-contributor-stats.vercel.app/api?username=Irsanama&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=1A1A1A&text_color=CCCCCC&title_color=AAAAAA" style="width: 100%; height: auto; border-radius: 12px;" alt="Contributor Stats" />
+    </div>
   </div>
 </div>
 
@@ -284,16 +272,6 @@
   <h2 align="center" style="color: #bbb; font-weight: 300; letter-spacing: 1px;">📈 График активности</h2>
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Irsanama&bg_color=1A1A1A&color=CCCCCC&line=888888&point=AAAAAA&area=true&area_color=333333&hide_border=true" width="95%" />
-  </p>
-</div>
-
-<hr style="border: 0.5px solid #333; margin: 40px 0;" />
-
-<!-- КАРТОЧКА "ТРОФЕИ GITHUB" -->
-<div style="background: rgba(25,25,25,0.7); backdrop-filter: blur(4px); border: 1px solid #333; border-radius: 20px; padding: 25px; margin: 30px 0;">
-  <h2 align="center" style="color: #bbb; font-weight: 300; letter-spacing: 1px;">🏆 Трофеи GitHub</h2>
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Irsanama&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
   </p>
 </div>
 
@@ -330,12 +308,6 @@
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Irsanama&bg_color=1A1A1A&text_color=CCCCCC&title_color=AAAAAA&hide_border=true&layout=compact" />
   </p>
 </div>
-
-<hr style="border: 0.5px solid #333; margin: 40px 0;" />
-
-<!-- КАРТОЧКА "ПОСЛЕДНИЕ ЗАПИСИ В БЛОГЕ" (ОСТАВЛЯЕМ КОММЕНТАРИЙ) -->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <hr style="border: 0.5px solid #333; margin: 40px 0;" />
 
@@ -384,40 +356,69 @@
 <div style="background: rgba(25,25,25,0.7); backdrop-filter: blur(4px); border: 1px solid #333; border-radius: 20px; padding: 25px; margin: 30px 0;">
   <h2 align="center" style="color: #bbb; font-weight: 300; letter-spacing: 1px;">📫 Все способы связи</h2>
   <p align="center">
-    <a href="mailto:mirseia@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://t.me/mirseia"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/mirseia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://instagram.com/mirseia"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://youtube.com/@mirseia"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-    <a href="https://behance.net/mirseia"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-    <a href="https://artstation.com/mirseia"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" /></a>
-    <a href="https://twitch.tv/mirseia"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-    <a href="https://steamcommunity.com/id/mirseia"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
-    <a href="https://discord.gg/mirseia"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://dev.to/mirseia"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-    <a href="https://vk.com/mirseia"><img src="https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white" /></a>
-    <a href="https://www.tiktok.com/@mirseia"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-    <a href="https://pinterest.com/ваш_логин" target="_blank"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+    <!-- Email -->
+    <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <!-- Основные соцсети -->
+    <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+    <a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="https://youtube.com/@username"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://facebook.com/username"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+    <a href="https://twitter.com/username"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    <a href="https://threads.net/@username"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+    <a href="https://bsky.app/profile/username.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+    <a href="https://mastodon.social/@username"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
+    <a href="https://vk.com/username"><img src="https://img.shields.io/badge/VK-4A76A8?style=for-the-badge&logo=vk&logoColor=white" /></a>
+    <a href="https://www.tiktok.com/@username"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+    <!-- Дизайн и творчество -->
+    <a href="https://artstation.com/username"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" /></a>
+    <a href="https://behance.net/username"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+    <a href="https://dribbble.com/username"><img src="https://img.shields.io/badge/Dribbble-FF69B4?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+    <a href="https://sketchfab.com/username"><img src="https://img.shields.io/badge/Sketchfab-1A1A1A?style=for-the-badge&logo=sketchfab&logoColor=00FFAA" /></a>
+    <a href="https://pinterest.com/username"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+    <!-- Разработка и IT -->
+    <a href="https://codepen.io/username"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+    <a href="https://codesandbox.io/u/username"><img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
+    <a href="https://stackoverflow.com/users/12345/username"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+    <a href="https://gitlab.com/username"><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+    <a href="https://dev.to/username"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+    <a href="https://medium.com/@username"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="https://habr.com/ru/users/username"><img src="https://img.shields.io/badge/Habr-77B1D9?style=for-the-badge&logo=habr&logoColor=black" /></a>
+    <!-- Игровые платформы -->
+    <a href="https://steamcommunity.com/id/username"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
+    <a href="https://www.twitch.tv/username"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
+    <a href="https://discord.gg/invitecode"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://www.reddit.com/user/username"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+    <a href="https://www.riotgames.com"><img src="https://img.shields.io/badge/Riot_Games-FF0022?style=for-the-badge&logo=riotgames&logoColor=white" /></a>
+    <a href="https://www.ubisoft.com"><img src="https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=ubisoft&logoColor=white" /></a>
+    <a href="https://www.ea.com"><img src="https://img.shields.io/badge/EA-FF0000?style=for-the-badge&logo=ea&logoColor=white" /></a>
+    <a href="https://www.rockstargames.com"><img src="https://img.shields.io/badge/Rockstar-000000?style=for-the-badge&logo=rockstargames&logoColor=white" /></a>
+    <a href="https://www.gog.com"><img src="https://img.shields.io/badge/GOG-86328A?style=for-the-badge&logo=gog.com&logoColor=white" /></a>
+    <a href="https://www.xbox.com"><img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" /></a>
+    <a href="https://www.playstation.com"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" /></a>
+    <a href="https://www.nintendo.com"><img src="https://img.shields.io/badge/Nintendo-E60012?style=for-the-badge&logo=nintendo&logoColor=white" /></a>
+    <!-- Музыка -->
+    <a href="https://soundcloud.com/username"><img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" /></a>
+    <a href="https://open.spotify.com/user/username"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
+    <a href="https://music.yandex.ru/users/username"><img src="https://img.shields.io/badge/Яндекс.Музыка-FFAA00?style=for-the-badge&logo=yandex-music&logoColor=black" /></a>
+    <a href="https://www.last.fm/user/username"><img src="https://img.shields.io/badge/Last.fm-BA0000?style=for-the-badge&logo=last.fm&logoColor=white" /></a>
+    <!-- Другое -->
+    <a href="https://www.threads.net/@username"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" /></a>
+    <a href="https://bsky.app/profile/username.bsky.social"><img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+    <a href="https://mastodon.social/@username"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
+
   </p>
 </div>
-
-<!-- ЗАКРЫВАЕМ ОСНОВНЫЕ КОНТЕЙНЕРЫ -->
-</div> <!-- закрытие z-index контейнера -->
-</div> <!-- закрытие глобального контейнера -->
 
 <!-- НИЖНЯЯ ВОЛНА -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:444444&height=120&section=footer" width="100%" />
 </p>
-
-<!-- СЧЁТЧИК ПОСЕТИТЕЛЕЙ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mirseia&label=👁️+views&color=555555&style=flat-square" />
-</p>
-
-<!-- МИНИМАЛИСТИЧНЫЙ ФУТЕР -->
-<p align="center" style="color: #666; font-size: 0.9em;">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="50" style="filter: grayscale(80%); opacity: 0.6;" />
-  <br/>
-  <span style="background: #1a1a1a; padding: 4px 12px; border-radius: 16px;">minimal & functional</span>
+<hr style="border: 0.25px solid #333; margin: 40px 0;" />
+<!-- КОПИРАЙТ ПО ЦЕНТРУ -->
+<p align="center" style="margin-top: -15px;">
+  <span style="background: rgba(30,30,30,0.5); padding: 6px 25px; border-radius: 40px; backdrop-filter: blur(4px); border: 1px solid #333; color: #aaa; font-size: 0.9em;">
+    © 2025 Mirseia • minimal & functional
+  </span>
 </p>
