@@ -366,7 +366,7 @@
 <!-- ФИНАЛЬНЫЙ ФУТЕР (FIXED & SAFE) -->
 <div align="center">
   <!-- 1. Верх: Волна (Твой фирменный градиент) -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:333333,100:555555&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:333333,100:555555&height=125&section=footer" width="100%"/>
   
   <!-- 2. Низ: Прямоугольник (ТОТ ЖЕ градиент + Безопасный текст) -->
   <!-- Заменил '&' на '+', чтобы API не ломался. Визуально шва нет. -->
