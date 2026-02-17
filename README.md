@@ -10,10 +10,12 @@
 
 <!-- 4. БЫСТРЫЕ ССЫЛКИ -->
 <p align="center">
-  <a href="https://твой-сайт.ru"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=00FFAA" /></a>
-  <a href="https://t.me/mirseia"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mirseia"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://artstation.com/mirseia"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" /></a>
+  <a href="https://ссылка.ru"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=00FFAA" /></a>
+  <a href="mailto:ссылка@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://discord.gg"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://pinterest.com"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -29,7 +31,7 @@
       <ul>
         <li>🔭 <b>Интересы:</b> Геймдев, 3D-моделирование, AI.</li>
         <li>🌱 <b>Стиль:</b> Стык технологий и творчества.</li>
-        <li>🎮 <b>Хобби:</b> Инди-игры, чтение фэнтези.</li>
+        <li>🎮 <b>Хобби:</b> Игры, чтение.</li>
       </ul>
       <!-- Языки -->
       <p>
@@ -202,8 +204,8 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Irsanama/Irsanama/blob/output/github-contribution-grid-snake-dark.svg" />
       <img alt="snake" src="https://github.com/Irsanama/Irsanama/blob/output/github-contribution-grid-snake.svg" width="100%"/>
   </picture>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Irsanama&bg_color=1A1A1A&text_color=CCCCCC&title_color=AAAAAA&hide_border=true&layout=compact" />
+  <!-- <br/><br/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Irsanama&bg_color=1A1A1A&text_color=CCCCCC&title_color=AAAAAA&hide_border=true&layout=compact" /> -->
 </div>
 
 <br/>
@@ -217,54 +219,40 @@
 <hr style="border: 0.5px solid #333;" />
 <br/>
 
-<!-- ВСЕ СПОСОБЫ СВЯЗИ (ПОЛНЫЙ СПИСОК ИЗ ТВОЕГО ФАЙЛА) -->
-<h2 id="-все-способы-связи" align="center" style="color: #bbb;">📫 Все способы связи / Connect</h2>
+<!-- СПОСОБЫ СВЯЗИ -->
+<h2 id="-все-способы-связи" align="center" style="color: #bbb;">📫 Все ссылки на меня / Connect</h2>
 
 <p align="center">
     <!-- Email -->
-    <a href="mailto:your@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:ссылка@email.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <br/><br/>
     <!-- Основные соцсети -->
-    <a href="https://t.me/username"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://youtube.com/@username"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+    <a href="https://t.me"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://discord.gg"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <br/><br/>
     <!-- Дизайн и творчество -->
-    <a href="https://artstation.com/username"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" /></a>
-    <a href="https://behance.net/username"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
-    <a href="https://dribbble.com/username"><img src="https://img.shields.io/badge/Dribbble-FF69B4?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
-    <a href="https://sketchfab.com/username"><img src="https://img.shields.io/badge/Sketchfab-1A1A1A?style=for-the-badge&logo=sketchfab&logoColor=00FFAA" /></a>
-    <a href="https://pinterest.com/username"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+    <a href="https://artstation.com"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" /></a>
+    <a href="https://deviantart.com"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=black"/></a>
+    <a href="https://behance.net"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+    <a href="https://dribbble.com"><img src="https://img.shields.io/badge/Dribbble-FF69B4?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
+    <a href="https://pinterest.com"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
     <br/><br/>
     <!-- Разработка и IT -->
-    <a href="https://codepen.io/username"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
-    <a href="https://codesandbox.io/u/username"><img src="https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white" /></a>
-    <a href="https://stackoverflow.com/users/12345/username"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
-    <a href="https://gitlab.com/username"><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
-    <a href="https://dev.to/username"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
-    <a href="https://medium.com/@username"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" /></a>
+    <a href="https://github.com/Irsanama"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://gitlab.com"><img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" /></a>
+    <a href="https://hub.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
+    <a href="https://itch.io"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white"/></a>
     <br/><br/>
-    <!-- Игровые платформы -->
-    <a href="https://steamcommunity.com/id/username"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" /></a>
-    <a href="https://www.twitch.tv/username"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /></a>
-    <a href="https://discord.gg/invitecode"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://www.riotgames.com"><img src="https://img.shields.io/badge/Riot_Games-FF0022?style=for-the-badge&logo=riotgames&logoColor=white" /></a>
-    <a href="https://www.ubisoft.com"><img src="https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=ubisoft&logoColor=white" /></a>
-    <br/><br/>
-    <!-- Музыка -->
-    <a href="https://open.spotify.com/user/username"><img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-    <a href="https://music.yandex.ru/users/username"><img src="https://img.shields.io/badge/Яндекс.Музыка-FFAA00?style=for-the-badge&logo=yandex-music&logoColor=black" /></a>
 </p>
 
 <!-- ПОДДЕРЖКА -->
 <div align="center">
   <h3 style="color: #bbb;">🤝 Поддержать меня</h3>
-  <a href="https://patreon.com/mirseia"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" /></a>
-  <a href="https://ko-fi.com/mirseia"><img src="https://img.shields.io/badge/Ko--fi-00B9FE?style=for-the-badge&logo=kofi&logoColor=white" /></a>
-  <a href="https://boosty.to/mirseia"><img src="https://img.shields.io/badge/Boosty-FF9900?style=for-the-badge&logo=boosty&logoColor=black" /></a>
-  <a href="https://paypal.me/mirseia"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-  <a href="https://www.buymeacoffee.com/mirseia"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://boosty.to"><img src="https://img.shields.io/badge/Boosty-FF9900?style=for-the-badge&logo=boosty&logoColor=black" /></a>
+  <a href="https://patreon.com"><img src="https://img.shields.io/badge/Patreon-FF424D?style=for-the-badge&logo=patreon&logoColor=white" /></a>
+  <a href="https://ko-fi.com"><img src="https://img.shields.io/badge/Ko--fi-00B9FE?style=for-the-badge&logo=kofi&logoColor=white" /></a>
 </div>
 
 <!-- ФИНАЛЬНЫЙ ФУТЕР (FIXED & SAFE) -->
@@ -274,5 +262,5 @@
   
   <!-- 2. Низ: Прямоугольник (ТОТ ЖЕ градиент + Безопасный текст) -->
   <!-- Заменил '&' на '+', чтобы API не ломался. Визуально шва нет. -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:555555,50:333333,100:1a1a1a&height=60&text=©%202025%20Mirseia%20•%20minimal%20and%20functional&fontSize=10&fontColor=cccccc&fontAlignY=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:555555,50:333333,100:1a1a1a&height=60&text=©%202025%20Irsanama%20•%20minimal%20and%20functional&fontSize=10&fontColor=cccccc&fontAlignY=50" width="100%"/>
 </div>
