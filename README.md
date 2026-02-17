@@ -165,41 +165,6 @@
 
 </details>
 
-<!-- 9. SECURITY -->
-<details>
-  <summary><b><span style="color: #00AAFF; font-size: 1.1em;">🧪 Безопасность (Security)</span></b></summary>
-  <br/>
-
-| Категория | Технологии |
-| :--- | :--- |
-| **Tools** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white) |
-| **Method** | ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) |
-
-</details>
-
-<!-- 10. BLOCKCHAIN -->
-<details>
-  <summary><b><span style="color: #FF00AA; font-size: 1.1em;">🌐 Блокчейн / Web3</span></b></summary>
-  <br/>
-
-| Категория | Технологии |
-| :--- | :--- |
-| **Platforms** | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white) ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white) ![Polygon](https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white) ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white) |
-| **Tools** | ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-FFF200?style=for-the-badge&logo=hardhat&logoColor=black) ![Truffle](https://img.shields.io/badge/Truffle-5E464D?style=for-the-badge&logo=truffle&logoColor=white) |
-
-</details>
-
-<!-- 11. QUANTUM -->
-<details>
-  <summary><b><span style="color: #00AAFF; font-size: 1.1em;">⚛️ Квантовые вычисления</span></b></summary>
-  <br/>
-
-| Категория | Технологии |
-| :--- | :--- |
-| **Frameworks** | ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=ibm&logoColor=white) ![Cirq](https://img.shields.io/badge/Cirq-4285F4?style=for-the-badge&logo=google&logoColor=white) ![PennyLane](https://img.shields.io/badge/PennyLane-FF6F00?style=for-the-badge) |
-
-</details>
-
 <!-- 12. METHODOLOGIES -->
 <details>
   <summary><b><span style="color: #FF00AA; font-size: 1.1em;">📐 Методологии разработки и архитектура</span></b></summary>
