@@ -34,7 +34,7 @@
       <!-- Языки -->
       <p>
         <img src="https://img.shields.io/badge/Русский-Native-00FFAA?style=flat-square"/>
-        <img src="https://img.shields.io/badge/English-Advanced-00AAFF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/English-******-00AAFF?style=flat-square"/>
       </p>
     </td>
     <td width="40%" align="center" valign="center">
@@ -174,21 +174,11 @@
 | :--- | :--- |
 | **Method** | ![Agile](https://img.shields.io/badge/Agile-00A98F?style=for-the-badge) ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge) ![Kanban](https://img.shields.io/badge/Kanban-00ACC1?style=for-the-badge) ![TDD](https://img.shields.io/badge/TDD-FFB300?style=for-the-badge) ![BDD](https://img.shields.io/badge/BDD-8E44AD?style=for-the-badge) ![DDD](https://img.shields.io/badge/DDD-2C3E50?style=for-the-badge) |
 | **Arch** | ![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge) ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white) ![Event-Driven](https://img.shields.io/badge/Event--Driven-00B4A0?style=for-the-badge) ![CQRS](https://img.shields.io/badge/CQRS-FF69B4?style=for-the-badge) |
-
 </details>
 
 <br/>
 <hr style="border: 0.5px solid #333;" />
 <br/>
-
-<!-- ЛЮБИМЫЕ ИНСТРУМЕНТЫ -->
-<h2 align="center" style="color: #bbb; font-weight: 300;">🛠️ Любимые инструменты</h2>
-<p align="center">
-  <b>VS Code</b> &#8226; <b>Blender</b> &#8226; <b>Figma</b>
-</p>
-
-<br/>
-
 <!-- СТАТИСТИКА GITHUB (GRID 2x1) -->
 <h2 id="-аналитика--метрики" align="center" style="color: #bbb;">📊 Аналитика / Stats</h2>
 
@@ -222,48 +212,6 @@
 
 <!-- ЦИТАТА -->
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="100%" /></div>
-
-<br/>
-<hr style="border: 0.5px solid #333;" />
-<br/>
-
-<!-- ИГРЫ И УВЛЕЧЕНИЯ (С ТВОИМ ТЕКСТОМ) -->
-<h2 id="-игры-и-увлечения" align="center" style="color: #bbb;">🎮 Игры и Увлечения</h2>
-<p align="justify" style="color: #aaa;">
-  🎲 Игры — моя страсть и постоянный источник вдохновения. Я не просто играю, я анализирую механики, нарратив и визуальный стиль.
-</p>
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-       <h3 style="color: #00FFAA;">🕹️ Gaming</h3>
-       <ul style="color: #ccc; font-size: 14px;">
-         <li>The Witcher 3: Wild Hunt</li>
-         <li>Hollow Knight, Disco Elysium</li>
-         <li>Stardew Valley, Portal 2</li>
-         <li>Elden Ring, Bloodborne</li>
-         <li>Celeste, RDR 2</li>
-       </ul>
-    </td>
-    <td width="33%" valign="top">
-       <h3 style="color: #00AAFF;">📚 & 🎬 Culture</h3>
-       <ul style="color: #ccc; font-size: 14px;">
-         <li><b>Books:</b> Pratchett, Gibson, Lem</li>
-         <li><b>Manga:</b> Berserk, Junji Ito</li>
-         <li><b>Movies:</b> Ghibli, Satoshi Kon</li>
-         <li><b>Board:</b> Bang!, Munchkin</li>
-       </ul>
-    </td>
-    <td width="33%" valign="top">
-       <h3 style="color: #FF9900;">🎧 Music & Other</h3>
-       <ul style="color: #ccc; font-size: 14px;">
-         <li>Synthwave, Doom Metal</li>
-         <li>Guitar, Vinyl, Photo</li>
-         <li>Mech Keyboards</li>
-       </ul>
-    </td>
-  </tr>
-</table>
 
 <br/>
 <hr style="border: 0.5px solid #333;" />
