@@ -1,11 +1,11 @@
 <!-- 1. ХЕДЕР С ВОЛНОЙ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:333333,100:555555&height=220&section=header&text=Mirseia&fontSize=70&fontColor=eeeeee&animation=twinkling&fontAlignY=35" width="100%" style="filter: drop-shadow(0 0 5px rgba(255,255,255,0.1));" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:333333,100:555555&height=220&section=header&text=Irsanama&fontSize=70&fontColor=eeeeee&animation=twinkling&fontAlignY=35" width="100%" style="filter: drop-shadow(0 0 5px rgba(255,255,255,0.1));" />
 </div>
 
 <!-- 2. АНИМИРОВАННЫЙ ТЕКСТ -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&weight=600&size=44&duration=3500&pause=800&color=DDDDDD&center=true&vCenter=true&width=900&height=100&lines=𝗛𝗲𝗹𝗹𝗼%2C+𝗜'𝗺+Mirseia;Developer+%7C+Designer+%7C+Creator;Code+%C2%B7+Design+%C2%B7+AI+%C2%B7+3D+%C2%B7+Games;Welcome+to+my+digital+space&cursorColor=888888" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&weight=600&size=44&duration=3500&pause=800&color=DDDDDD&center=true&vCenter=true&width=900&height=100&lines=𝗛𝗲𝗹𝗹𝗼%2C+𝗜'𝗺+Irsanama;Developer+%7C+Designer+%7C+Creator;Code+%C2%B7+Design+%C2%B7+AI+%C2%B7+3D+%C2%B7+Games;Welcome+to+my+digital+space&cursorColor=888888" alt="Typing SVG" />
 </h1>
 
 <!-- 4. БЫСТРЫЕ ССЫЛКИ -->
