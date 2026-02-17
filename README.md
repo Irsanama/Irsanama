@@ -8,15 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Space+Mono&weight=600&size=44&duration=3500&pause=800&color=DDDDDD&center=true&vCenter=true&width=900&height=100&lines=𝗛𝗲𝗹𝗹𝗼%2C+𝗜'𝗺+Mirseia;Developer+%7C+Designer+%7C+Creator;Code+%C2%B7+Design+%C2%B7+AI+%C2%B7+3D+%C2%B7+Games;Welcome+to+my+digital+space&cursorColor=888888" alt="Typing SVG" />
 </h1>
 
-<!-- 3. НАВИГАЦИЯ (МЕНЮ) -->
-<p align="center">
-  <a href="#-о-себе">🧬 О себе</a> &#8226;
-  <a href="#-стек-технологий">⚙️ Стек</a> &#8226;
-  <a href="#-аналитика--метрики">📊 Аналитика</a> &#8226;
-  <a href="#-игры-и-увлечения">🎮 Хобби</a> &#8226;
-  <a href="#-все-способы-связи">📫 Контакты</a>
-</p>
-
 <!-- 4. БЫСТРЫЕ ССЫЛКИ -->
 <p align="center">
   <a href="https://твой-сайт.ru"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=00FFAA" /></a>
