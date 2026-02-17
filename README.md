@@ -37,8 +37,8 @@
         <img src="https://img.shields.io/badge/English-Advanced-00AAFF?style=flat-square"/>
       </p>
     </td>
-    <td width="40%" align="center" valign="center" style="padding-left: 20px;">
-       <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" style="border-radius: 12px; border: 1px solid #333;" alt="coding" />
+    <td width="40%" align="center" valign="center">
+       <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="100%" border: 1px solid #333;" alt="coding" />
     </td>
   </tr>
 </table>
