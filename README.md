@@ -15,7 +15,7 @@
   <a href="https://t.me"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://discord.gg"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://pinterest.com"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
+  <a href="https://ru.pinterest.com/irsanama/"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
 </p>
 
 <br/>
@@ -165,7 +165,7 @@
 <br/>
 <hr style="border: 0.5px solid #333;" />
 <br/>
-<!-- СТАТИСТИКА GITHUB (GRID 2x1) -->
+<!-- СТАТИСТИКА GITHUB -->
 <h2 id="-аналитика--метрики" align="center" style="color: #bbb;">📊 Аналитика / Stats</h2>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -239,12 +239,8 @@
   <a href="https://ko-fi.com"><img src="https://img.shields.io/badge/Ko--fi-00B9FE?style=for-the-badge&logo=kofi&logoColor=white" /></a>
 </div>
 
-<!-- ФИНАЛЬНЫЙ ФУТЕР (FIXED & SAFE) -->
+<!-- ФУТЕР -->
 <div align="center">
-  <!-- 1. Верх: Волна (Твой фирменный градиент) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,50:333333,100:555555&height=125&section=footer" width="100%"/>
-  
-  <!-- 2. Низ: Прямоугольник (ТОТ ЖЕ градиент + Безопасный текст) -->
-  <!-- Заменил '&' на '+', чтобы API не ломался. Визуально шва нет. -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:555555,50:333333,100:1a1a1a&height=60&text=©%202025%20Irsanama%20•%20minimal%20and%20functional&fontSize=10&fontColor=cccccc&fontAlignY=50" width="100%"/>
 </div>
